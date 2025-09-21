@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-expo-app": "^3.3.0",
+    "expo-cli": "^6.3.12",
+    "react-dom": "^18.3.1",
+    "react-native-web": "^0.19.13"
+  }
+}
